@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\hide_to_bottom.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\hide_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bottom_out.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\bottom_out.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\show_from_bottom.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\show_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_in.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\top_out.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\top_out.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\scale_in.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\scale_in.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\top_in.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\top_in.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_out.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\bottom_in.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\bottom_in.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fade_in.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\scale_out.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\scale_out.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_in.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\left_out.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\right_out.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\anim\\right_out.xml"
+    }
+]

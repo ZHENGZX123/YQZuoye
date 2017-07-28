@@ -1,0 +1,40 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><title>同学课堂</title><meta name=viewport content="width=device-width,user-scalable=0,metaaximum-scale=1,minimum-scale=1,initial-scale=1"><link rel=stylesheet type=text/css href=../../gzxtkt/css/common.css><link rel=stylesheet type=text/css href=../../gzxtkt/css/lCalendar.css><script type=text/javascript src=../../gzxtkt/js/jquery-2.1.1.js></script><script type=text/javascript src=../../gzxtkt/js/init.js></script><script src=../../gzxtkt/js/lCalendar.min.js></script><script src=../../gzxtkt/js/util.js></script><script type=text/javascript src=https://res.wx.qq.com/open/js/jweixin-1.1.0.js></script><script type=text/javascript>var paramUrl = window.location.href.split("#/")[0];
+        var url = 'http://trtxkt.qgjydd.com/jxt/servlet/CenterHandleServlet';
+        var params = {paramUrl:paramUrl,type:5};
+        $.ajax({
+        type : "POST",
+        dataType : "html",
+        data : params,
+        async:false,
+        url : url,
+        success : function (a) {
+          var ret = eval("(" + a + ")").data;
+          wx.config({
+            debug: false, // 开启调试模式,调用的所有api的返回值会在客户端alert出来，若要查看传入的参数，可以在pc端打开，参数信息会通过log打出，仅在pc端时才会打印。
+            appId: ret.appID, // 必填，公众号的唯一标识
+            timestamp: ret.timestamp, // 必填，生成签名的时间戳
+            nonceStr: ret.nonceStr, // 必填，生成签名的随机串
+            signature: ret.signature,// 必填，签名，见附录1
+            jsApiList: [
+              'chooseImage',
+              'previewImage',
+              'uploadImage',
+              'scanQRCode',
+              'chooseWXPay' 
+                        ] // 必填，需要使用的JS接口列表，所有JS接口列表见附录2
+        });
+         
+         wx.ready(function(){
+
+           wx.checkJsApi({
+              jsApiList: ['chooseImage','previewImage','uploadImage','scanQRCode',
+                'chooseWXPay'], // 需要检测的JS接口列表，所有JS接口列表见附录2,
+              success: function(res) {
+                  // 以键值对的形式返回，可用的api值true，不可用为false
+                  // 如：{"checkResult":{"chooseImage":true},"errMsg":"checkJsApi:ok"}
+               // alert(JSON.stringify(res));
+              }
+          });
+        })  
+        }
+      })</script><link href=../../gzxtkt/css/app.0911c4927a7fb1a52b930ebcc82a84cc.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=../../gzxtkt/js/manifest.e4223132059b86436de5.js></script><script type=text/javascript src=../../gzxtkt/js/vendor.2aafbf75f87172266fbb.js></script><script type=text/javascript src=../../gzxtkt/js/app.5c6ebe450f82eb45f0aa.js></script></body></html>

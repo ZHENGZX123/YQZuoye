@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">同学课堂</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="scan">二维码扫描</string>
+    <string name="teacher">老师</string>
+    <string name="student">学生</string>
+</resources>

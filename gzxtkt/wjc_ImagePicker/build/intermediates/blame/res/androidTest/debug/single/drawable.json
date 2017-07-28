@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_item_checked.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_back_press.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_top_ok.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_top_ok.xml"
+    }
+]

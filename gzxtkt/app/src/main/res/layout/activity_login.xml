@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/_ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="60dp"
+            android:src="@mipmap/ic_launcher"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_20dp"
+            android:text="@string/app_name"
+            android:textColor="#6ddcf2"
+            android:textSize="@dimen/_18sp"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/_3fcc8a_line_val"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/userName"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:drawableLeft="@drawable/ic_person"
+                android:hint="用户名"
+                android:padding="3dp"
+                android:textSize="16sp"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#6ddcf2"/>
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:drawableLeft="@drawable/ic_https"
+                android:hint="密码"
+                android:inputType="textPassword"
+                android:padding="3dp"
+                android:textSize="16sp"/>
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/rg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/_10dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="7dp"
+                android:drawableLeft="@drawable/radiobutton_selector_bg"
+                android:text="@string/teacher"
+                android:textColor="@color/_333333"/>
+
+            <RadioButton
+                android:id="@+id/rb2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:drawablePadding="7dp"
+                android:layout_marginLeft="@dimen/_10dp"
+                android:drawableLeft="@drawable/radiobutton_selector_bg"
+                android:text="@string/student"
+                android:textColor="@color/_333333"/>
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/loadbutton"
+            android:layout_width="250dp"
+            android:layout_height="@dimen/_40dp"
+            android:layout_margin="30dp"
+            android:background="@drawable/load_button_selector_bg"
+            android:onClick="clickLogin"
+            android:text="登录"
+            android:textColor="@color/_ffffff"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/_f43333"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitEnd"
+        android:src="@drawable/login_bg"/>
+</RelativeLayout>

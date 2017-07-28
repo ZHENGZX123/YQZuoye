@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_40dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40dp"
+        android:layout_centerInParent="true"
+        android:background="@color/_3fcc8a"
+        android:gravity="center"
+        android:text="@string/scan"
+        android:textColor="@color/_ffffff"
+        android:textSize="@dimen/_18sp"/>
+
+    <ImageView
+        android:id="@+id/previos"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_40dp"
+        android:contentDescription="@string/app_name"
+        android:padding="@dimen/_10dp"
+        android:src="@drawable/ic_back"/>
+
+</RelativeLayout>

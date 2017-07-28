@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        signature {
+            keyAlias 'kiway'
+            keyPassword 'kiway123'
+            storeFile file('F:/android_signature/kiway.key')
+            storePassword 'kiway123'
+        }
+    }
+
+    compileSdkVersion 25
+    buildToolsVersion '25.0.1'
+    defaultConfig {
+        applicationId "cn.kiway.yqyd"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionCode 3
+        versionName "1.0.7"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.signature
+        }
+        debug {
+            signingConfig signingConfigs.signature
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/zip4j_1.3.1.jar')
+    compile project(':wjc_ImagePicker')
+    compile project(':zxingScan')
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.squareup.okhttp3:okhttp:3.0.1'
+}

@@ -1,0 +1,25 @@
+1、学生apk版本更新
+-- apk与zip更新
+http://yqyd.qgjydd.com/yqyd/static/version/zip_xs.json（请求地址）
+
+-- 文件结构如下
+{
+	"zipCode": "1.0.6",
+	"zipUrl": "http://yqyd.qgjydd.com/yqyd/static/version/student.zip",
+	"apkCode": "1.0.6",
+	"apkUrl": "http://yqyd.qgjydd.com/yqyd/static/version/student.apk"
+}
+
+
+2、老师端更新
+
+-- apk与zip更新
+http://yqyd.qgjydd.com/yqyd/static/version/zip_ls.json（请求地址）
+
+-- 文件结构如下
+{
+	"zipCode": "1.0.4",
+	"zipUrl": "http://yqyd.qgjydd.com/yqyd/static/version/teacher.zip",
+	"apkCode": "1.0.3",
+	"apkUrl": "http://yqyd.qgjydd.com/yqyd/static/version/teacher.apk"
+}

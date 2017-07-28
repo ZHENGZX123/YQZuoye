@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_image_preview.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_top_bar.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_camera_item.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pop_folder.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_image_grid.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_image_crop.xml",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_image_crop.xml"
+    }
+]

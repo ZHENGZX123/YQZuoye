@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\checkbox_checked.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\checkbox_normal.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_normal.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_back.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\grid_camera.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\grid_camera.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_del.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_del.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_image.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_image.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\list_selected.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\list_selected.png"
+    },
+    {
+        "merged": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\text_indicator.png",
+        "source": "F:\\kiway_xm\\gzxtkt\\wjc_ImagePicker\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\text_indicator.png"
+    }
+]
